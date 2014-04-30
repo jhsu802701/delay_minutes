@@ -6,10 +6,10 @@ require 'delay_minutes/version'
 Gem::Specification.new do |spec|
   spec.name          = "delay_minutes"
   spec.version       = DelayMinutes::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["Jason Hsu"]
+  spec.email         = ["rubyist@jasonhsu.com"]
+  spec.summary       = %q{Provides a random delay with a maximum specified value.}
+  spec.description   = %q{Useful for varying the time at which a script runs in a cron job.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
