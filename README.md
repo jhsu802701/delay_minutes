@@ -19,7 +19,7 @@ Or install it yourself as:
 ## Usage
 
 To create a random delay between 0 and 5 minutes, the command is:
-DelayMinutes(5)
+Delay_Minutes(5)
 
 ## Contributing
 
