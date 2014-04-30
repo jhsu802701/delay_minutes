@@ -1,6 +1,6 @@
 # DelayMinutes
 
-TODO: Write a gem description
+The Ruby gem delay_minutes provides a random delay between 0 minutes and a specified maximum.
 
 ## Installation
 
@@ -18,11 +18,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To create a random delay between 0 and 5 minutes, the command is:
+DelayMinutes(5)
 
 ## Contributing
 
-1. Fork it ( http://github.com/<my-github-username>/delay_minutes/fork )
+1. Fork it ( http://github.com/jhsu802701/delay_minutes/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
